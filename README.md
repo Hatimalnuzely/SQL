@@ -1,4 +1,4 @@
 # SQL
 
-### Data Exploratory Uaing SQL
+### Data Exploration Using SQL
 ### Data Cleaning Using SQL
